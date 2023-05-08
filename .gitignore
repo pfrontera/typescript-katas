@@ -1,0 +1,15 @@
+node_modules/
+dist/
+lib/
+
+*.js
+*.js.map
+
+build/
+coverage/
+
+.vscode/
+.idea/
+
+*.log
+.env
